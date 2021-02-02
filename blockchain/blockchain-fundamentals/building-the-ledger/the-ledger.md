@@ -31,8 +31,8 @@ Before money, it was something like this:
 
 ![barter-circle](https://img.enkipro.com/73b4df28d69d727f7bdba443a2011bfa.png)
 
-Since we now have a non-perishable intermediary, there's no need to count of the others to need what we have to offer when we need what they have to offer.
-Having a mean to reward well behaved participants in the network, more people are incentivized to join. As more people join the network, the more secure and trustworthy the network becomes.
+Since we now have a non-perishable intermediary, there's no need to count on the others to need what we have to offer when we need what they have to offer.
+Having a means to reward well behaved participants in the network, more people are incentivized to join. As more people join the network, the more secure and trustworthy the network becomes.
 
 This way, blockchains are able to self-sustain solely based on the adoption rate.
 
