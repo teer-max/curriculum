@@ -21,11 +21,11 @@ practiceQuestion:
 
 First and foremost, the blockchain must verify if the coin sender has enough coins to complete the transactions: this is done by going through all previous transactions. If Alice has enough coins, the first part of the verification process is done.
 
-Now, the network has to be sure that Alice doesn't try spend the same coins that were supposed to get to Bob on another transaction to someone else. This is known as the double-spending problem.
+Now, the network has to be sure that Alice doesn't try to spend the same coins that were supposed to get to Bob on another transaction to someone else. This is known as the double-spending problem.
 
 In a centralized environment, i.e. bank, there is a single source of truth: the main database. If you ever check your balance on internet banking, you will most likely see two values - the total balance and the available balance. The available balance is the total balance minus any holds that haven't cleared the account yet.
 
-By keeping track of a second balance, the bank knows for sure you won't be able to spend the same $10 you had used to buy groceries on coffee the next day.
+By keeping track of a second balance, the bank knows for sure you won't be able to spend the same $10 you had used to buy groceries to also buy coffee the next day.
 
 In a decentralized environment, it takes a while for transaction confirmations to move between nodes. Consider this scenario: Alice is living in the UK and buys something for 10 tokens from Bob. The transaction is valid by itself and is broadcasted from the UK:
 
